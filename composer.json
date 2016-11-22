@@ -9,7 +9,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-  
-    }
+    "repositories": [
+{
+"packagist": false
+},
+{
+"type": "composer",
+"url": "http://packagist.phpcomposer.com"
+}
+]
 }
